@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justus Izuchukwu Onuh
 - 👀 I’m a front end developer
 - 🌱 I’m currently learning android development 
-- 💞️ I’m looking to collaborate on reaching the highest point incoding
+- 💞️ I’m looking forward to reaching the highest point in coding
 - 📫 You can reach me on admin@izunwaonu.com.ng
 
 <!---
