@@ -1,40 +1,61 @@
-#  Hi, I’m Justus Izuchukwu Onuh
+<h1 align="center">👋 Hi, I'm Justus Izuchukwu Onuh</h1>
 
-I'm a seasoned **Full Stack Developer** with over **5 years of hands-on experience** delivering scalable software, intuitive user interfaces, and elegant backend systems.
-
-🌍 Personal Website: [izunwaonu.com.ng](https://izunwaonu.com.ng)  
- Email: [admin@izunwaonu.com.ng](mailto:admin@izunwaonu.com.ng)
-
----
-
-##  About Me
-
-- 🔧 I specialize in TypeScript, React, Next.js, Node.js, PostgreSQL, and scalable REST/GraphQL APIs.
-- 🛠️ Tools of the Trade: Tailwind CSS, Prisma, GitHub Actions, and more.
-- 🌱 Currently exploring DevOps, cloud architecture (AWS/GCP), and system design.
-- 🧩 Fun Fact: I turn coffee into scalable systems.
+<p align="center">
+  🌍 Full Stack Developer with 5+ years of experience <br/>
+  🧠 I specialize in TypeScript, React, Node.js, and more. <br/>
+  🌐 Personal Website: <a href="https://izunwaonu.com.ng">izunwaonu.com.ng</a> <br/>
+  📬 Reach me: <a href="mailto:admin@izunwaonu.com.ng">admin@izunwaonu.com.ng</a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 About Me
 
-![Justus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=izunwaonu&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izunwaonu&layout=compact&theme=tokyonight)
+- 🧩 I love building scalable and elegant web applications
+- 🔭 Currently building tools to solve real-world problems
+- 🧠 I’m currently exploring AI, DevOps, and Cloud Engineering
+- ✍️ I share code, insights, and tutorials on GitHub and social platforms
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onuh-justus-izuchukwu-9340a121b/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/izunwaonu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/izunwonu)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izunwaonu)
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/onuh-justus-izuchukwu-9340a121b/)  
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/izunwaonu)  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/izunwonu)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/izunwaonu)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izunwaonu&show_icons=true&theme=react&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izunwaonu&layout=compact&theme=react" height="170" />
+</div>
 
 ---
 
-> 🚀 *"Empowering the world through clean code, great design, and continuous learning."*
+## 🏆 GitHub Trophies
 
-<!---
-izunwaonu/izunwaonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=izunwaonu&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=izunwaonu&theme=radical&hide_border=true&border_radius=5" />
+</p>
+
+---
+
+## 🧠 Most Used Languages (Your 2025 Stats)
+
+```text
+TypeScript          ████████████████████░░░░   67.70%
+Jupyter Notebook    ████████░░░░░░░░░░░░░░░░   15.93%
+JavaScript          ██████░░░░░░░░░░░░░░░░░░   12.87%
+CSS                 █░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+HTML                ░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+Python              ░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
