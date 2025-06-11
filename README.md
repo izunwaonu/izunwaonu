@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Justus Izuchukwu Onuh</h1>
+<h1 align="left">Hi, I'm Justus Izuchukwu Onuh</h1>
 
-<p align="center">
+<p align="left">
    Full Stack Developer with 5+ years of experience <br/>
    I specialize in TypeScript, React, Node.js, and more. <br/>
    Personal Website: <a href="https://izunwaonu.com.ng">izunwaonu.com.ng</a> <br/>
