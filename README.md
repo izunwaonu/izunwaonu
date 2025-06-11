@@ -1,16 +1,16 @@
-# 👋 Hi, I’m Justus Izuchukwu Onuh
+#  Hi, I’m Justus Izuchukwu Onuh
 
 I'm a seasoned **Full Stack Developer** with over **5 years of hands-on experience** delivering scalable software, intuitive user interfaces, and elegant backend systems.
 
 🌍 Personal Website: [izunwaonu.com.ng](https://izunwaonu.com.ng)  
-📫 Email: [admin@izunwaonu.com.ng](mailto:admin@izunwaonu.com.ng)
+ Email: [admin@izunwaonu.com.ng](mailto:admin@izunwaonu.com.ng)
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🔧 I specialize in TypeScript, React, Next.js, Node.js, PostgreSQL, and scalable REST/GraphQL APIs.
-- 🛠️ Tools of the Trade: Tailwind CSS, Prisma, Docker, GitHub Actions, and more.
+- 🛠️ Tools of the Trade: Tailwind CSS, Prisma, GitHub Actions, and more.
 - 🌱 Currently exploring DevOps, cloud architecture (AWS/GCP), and system design.
 - 🧩 Fun Fact: I turn coffee into scalable systems.
 
